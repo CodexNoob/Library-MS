@@ -1,0 +1,56 @@
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\bin\x86\Release\LMS.exe.config
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\bin\x86\Release\LMS.exe
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\bin\x86\Release\LMS.pdb
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.About.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.AddCustomer.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.CustomerDetail.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.AllRented.resources
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.vbproj.CoreCompileInputs.cache
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.exe
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.pdb
+F:\Sem.4\extra vs code\Library management System\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.About.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.AddCustomer.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.CustomerDetail.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.AllRented.resources
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\Janobe\Downloads\Compressed\LIBRARY_MANAGEMENT_SYSTEMS_IN_VB.NET_WITH_SOURCE_CODE\Library management System VB.NET\LMS\LMS\obj\x86\Release\LMS.pdb
+D:\My Project\Library management System\LMS\LMS\bin\x86\Release\LMS.exe.config
+D:\My Project\Library management System\LMS\LMS\bin\x86\Release\LMS.exe
+D:\My Project\Library management System\LMS\LMS\bin\x86\Release\LMS.pdb
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.vbproj.AssemblyReference.cache
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.About.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.AddCustomer.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.CustomerDetail.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.AllRented.resources
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.cache
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.vbproj.CoreCompileInputs.cache
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.exe
+D:\My Project\Library management System\LMS\LMS\obj\x86\Release\LMS.pdb
